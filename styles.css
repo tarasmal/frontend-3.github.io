@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    text-align: center;
+}
+.task-1 {
+    width: 100%;
+    height: 50%;
+}
+.container-1 {
+    width: 100%;
+    height: 100%;
+}
+.img-1 {
+    width: 100%;
+    height: 10%;
+    background-color: aqua;
+}
+.content-1 {
+    display: block;
+    width: 100%;
+    height: 80%;
+}
+.text-1 {
+    height: 100%;
+    width: 50%;
+}
+.purple-1 {
+    float: left;
+    background-color: purple;
+}
+.blue-1 {
+    float: right;
+    background-color: blue;
+}
