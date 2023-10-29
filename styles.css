@@ -15,9 +15,9 @@ html, body {
     height: 100%;
 }
 .img-1 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyKFTUV232vOaIuAM76gpwZK7IW5mZd6XSDTHRF0f7w&s");
     width: 100%;
     height: 25%;
-    background-color: aqua;
 }
 .content-1 {
     display: block;
@@ -46,7 +46,7 @@ html, body {
 }
 .img-2 {
     flex-grow: 1;
-    background-color: aqua;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyKFTUV232vOaIuAM76gpwZK7IW5mZd6XSDTHRF0f7w&s");
 }
 .content-2 {
     display: flex;
